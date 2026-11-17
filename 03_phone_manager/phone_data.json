@@ -1,0 +1,18 @@
+[
+  {
+    "brand": "삼성",
+    "model": "갤럭시",
+    "color": "흰색",
+    "storage": 512,
+    "year": 2026,
+    "price": 2000
+  },
+  {
+    "brand": "애플",
+    "model": "아이폰",
+    "color": "블랙",
+    "storage": 512,
+    "year": 2026,
+    "price": 3000
+  }
+]
